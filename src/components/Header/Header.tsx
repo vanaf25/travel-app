@@ -18,7 +18,7 @@ const HeaderComponent = () => {
         <div className={classes.header}>
             <div className={`container ${classes.header__container}`}>
                 <div className={classes.header__title}>
-                    Pan Cebula
+                   Travel  app
                 </div>
                 <div className={classes.header__search}>
                     <div className={classes.search__title}>
